@@ -27,4 +27,9 @@ sudo dnf groupupdate sound-and-video
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 
+## Change hostname
+```shell
+sudo hostnamectl set-hostname "My Laptop"
+```
+
 You're done!
