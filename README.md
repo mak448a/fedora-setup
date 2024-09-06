@@ -1,4 +1,10 @@
 # Setup Fedora on a brand new computer
+
+
+> [!NOTE]
+> This is just what I do on my computer. It may not suit your needs.
+
+
 [Get Aseprite](https://github.com/mak448a/compile-aseprite-fedora)
 
 ## DNF Configuration
