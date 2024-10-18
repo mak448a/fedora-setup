@@ -5,7 +5,7 @@
 > This is just what I do on my computer. It may not suit your needs.
 
 
-[Get Aseprite](https://github.com/mak448a/compile-aseprite-fedora)
+[Get Aseprite](https://github.com/mak448a/compile-aseprite-linux)
 
 ## DNF Configuration
 ```shell
@@ -43,7 +43,6 @@ flatpak install flathub org.upscayl.Upscayl
 ## Other essentials
 - Android Studio
 - Godot Engine
-- 
 
 
 ## Change hostname
