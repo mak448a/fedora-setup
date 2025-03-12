@@ -1,4 +1,4 @@
-# Setup Fedora on a brand new computer
+# Setup Fedora on a new computer
 
 
 > [!NOTE]
